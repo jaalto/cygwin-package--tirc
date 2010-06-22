@@ -1,0 +1,73 @@
+tirc
+------------------------------------------
+
+Token's irc client
+
+Irc with many features: vi-like editor line and general usage,
+comfortable backscroll buffers with regex search mechanism in multiple
+screen regions, multiple pages that contain window regions, nickname
+completion, etc. TIRC doesn't have a scripting language. It is the
+author's belief that scripting languages do more harm by abuse than
+they're useful.
+
+Runtime requirements:
+  cygwin
+  libncurses8
+
+Build requirements:
+  cygwin
+  libncurses-devel
+
+Canonical homepage:
+  http://packages.debian.org/tirc
+
+Canonical download:
+  See above
+
+Version control repository:
+
+Mailing list:
+
+Forum / Wiki:
+
+IRC channel:
+
+Upstream contact:
+  Maintainer: <token@mayn.de>
+  Bugs:
+
+License:
+  Custom
+
+  See COPYRIGHT:
+
+  ...
+  Redistribution and use in source and binary forms, with or without
+  modification, are permitted provided...
+
+Language:
+  C
+
+------------------------------------------
+
+Build instructions:
+  unpack tirc-*-src.tar.bz2
+    if you use setup to install this source package, it will be
+    unpacked under /usr/src automatically
+  cd /usr/src
+  ./tirc*.sh all
+
+------------------------------------------
+
+Files included in the binary distribution:
+  See content of *.tar.gz
+
+------------------------------------------
+
+Port Notes:
+
+----- version 1.2-1 -----
+- Initial release 2008-03-12 Jari Aalto
+
+Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
+Copyright (C) 2008 Jari Aalto; Licensed under GPL v2 or later

@@ -1,0 +1,9 @@
+sdesc: "Token's irc client"
+ldesc: "Irc with many features: vi-like editor line and general usage,
+comfortable backscroll buffers with regex search mechanism in multiple
+screen regions, multiple pages that contain window regions, nickname
+completion, etc. TIRC doesn't have a scripting language. It is the
+author's belief that scripting languages do more harm by abuse than
+they're useful"
+category: Net
+requires: cygwin

@@ -1,0 +1,2 @@
+tag1: tirc
+  http://packages.debian.org/unstable/tirc pregexp:orig.tar.gz file:tirc_1.2.orig.tar.gz new: x:
