@@ -15,3 +15,4 @@
 
 tirc usr/bin/
 tirc.1
+CYGWIN-PATCHES/tircrc etc/tirc/tircrc
