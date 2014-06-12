@@ -66,8 +66,12 @@ Files included in the binary distribution:
 
 Port Notes:
 
+----- version 1.2-2 -----
+- New release 2014-06-12 Jari Aalto
+- New tircrc install (postinstall etc).
+
 ----- version 1.2-1 -----
 - Initial release 2008-03-12 Jari Aalto
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2008-2009 Jari Aalto; Licensed under GPL v2 or later
+Copyright (C) 2008-2014 Jari Aalto; Licensed under GPL v2 or later
